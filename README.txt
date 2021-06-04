@@ -1,0 +1,1 @@
+There are some .h and .cpp files here that are not implemented, they were meant to be in the future, but at the end of the day I became more and more focused on researching and trying to implement the hash function, I never actually got to use it in an application.
